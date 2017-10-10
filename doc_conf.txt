@@ -1,0 +1,1 @@
+cmd start /c apidoc -i C:\Users\D1M\Desktop\properties_tool\doc/ -o C:\Users\D1M\Desktop\properties_tool\doc\propertiesDoc/
